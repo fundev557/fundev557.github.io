@@ -1,0 +1,18 @@
+@font-face {
+ font-family: bcd;
+ src: url('bcd.otf');
+}
+
+body h1 {
+    padding-top: 0px;
+    font-family: bcd;
+    font-size: 95px;
+    text-shadow: gray 17px 15px 10px;
+    color: orange;
+    font-style: italic;
+}
+
+body {
+    text-align: center;
+    padding-top: 250px;
+}
